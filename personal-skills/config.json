@@ -1,0 +1,34 @@
+{
+  "name": "Personal Skills Library",
+  "version": "1.0.0",
+  "description": "Shared personal technical skills and utilities for use across all projects",
+  "paths": {
+    "backend": "./backend",
+    "frontend": "./frontend",
+    "devops": "./devops",
+    "tools": "./tools",
+    "utilities": "./utilities"
+  },
+  "categories": {
+    "backend": {
+      "description": "Backend development skills (Node.js, Python, Go, databases, etc.)",
+      "examples": ["api-clients", "database-utilities", "auth-middleware", "validation-schemas"]
+    },
+    "frontend": {
+      "description": "Frontend development skills (React, Vue, styling, components, etc.)",
+      "examples": ["react-hooks", "css-utilities", "form-handlers", "ui-components"]
+    },
+    "devops": {
+      "description": "DevOps and infrastructure skills (Docker, Kubernetes, CI/CD, monitoring)",
+      "examples": ["docker-configs", "kubernetes-manifests", "github-actions", "monitoring"]
+    },
+    "tools": {
+      "description": "Development tools and utilities",
+      "examples": ["build-scripts", "linters", "formatters", "bundlers"]
+    },
+    "utilities": {
+      "description": "Common utility functions and helpers",
+      "examples": ["string-utils", "array-helpers", "date-formatters", "error-handlers"]
+    }
+  }
+}

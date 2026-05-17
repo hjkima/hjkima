@@ -47,4 +47,4 @@ LLM 챗봇을 도입하면서도, 사내  협업 툴을 만들면서도
 ##
 ## Product
 
-뭐만들지 MMDG (https://mmdg.vercel.app/)을 운영하고 있습니다.
+뭐만들지 MMDG (https://mmdg.vercel.app/) 을 운영하고 있습니다.
